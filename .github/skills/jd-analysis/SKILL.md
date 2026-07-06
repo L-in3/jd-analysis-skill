@@ -56,7 +56,20 @@ Turn a JD into a structured career-prep package with these outputs:
 
 ## Output Structure
 
-Use the fixed table output template in [./assets/output-template.md](./assets/output-template.md) for every final response.
+Use a fixed table-based Markdown structure for every final response. Do not depend on any external template file.
+
+The report should include these sections in order:
+
+1. `## 0. 概览`
+2. `## 1. 岗位本质`
+3. `## 2. 知识体系`
+4. `## 3. 术语详解`
+5. `## 4. 学习路径`
+6. `## 5. 学习资源`
+7. `## 6. 面试题`
+8. `## 7. 最后总结`
+
+Keep the report table-driven and concise inside each section.
 
 Do not mix in bullet-list sections in the final answer unless the user explicitly asks for a different format.
 
