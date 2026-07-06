@@ -1,4 +1,4 @@
-# JD Analysis Skill Share
+# JD Analysis Skill  
 
 一个用于将招聘 JD 自动解析为结构化分析结果的 Skill。  
 它可以把岗位描述转换成固定表格化输出，帮助用户快速理解岗位本质、补齐知识体系、规划学习路径，并生成面试题与参考答案。
